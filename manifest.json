@@ -1,0 +1,20 @@
+{
+  "name": "E-Cycle Navi",
+  "short_name": "E-Cycle",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
